@@ -24,3 +24,9 @@ Each mission (Mission 0 through Mission 8) is completed, verified, documented in
 | Mission 7 | How computers communicate | [mission-07-networking/README.md](mission-07-networking/README.md) |
 | Mission 8 | Final report and submission | [mission-08-final-report/README.md](mission-08-final-report/README.md) |
 | Evidence | Privacy-safe outputs & logs | [evidence/](evidence/) |
+
+## My Learning
+
+- Every computer interaction follows the IPOS cycle (Input, Processing, Output, Storage), managed by the operating system using isolated processes (`PID`s), memory, and `rwx` file permissions.
+- Terminal flags and pipes (`|`) let small commands inspect files and processes quickly, while compilers translate code ahead of execution and interpreters like `python3` execute instructions at runtime.
+- Numbers and text inside a computer are stored in binary and encoded via standards like ASCII and UTF-8, which I tested manually and verified using `number_converter.py`.
